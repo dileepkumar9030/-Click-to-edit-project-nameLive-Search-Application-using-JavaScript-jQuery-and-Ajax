@@ -5,6 +5,7 @@ This is a repository for my project:
 The ability to read data and communicate information asynchronously is fundamental to modern web applications.In this, I have done this project by integrating AJAX (Asynchronous JavaScript and XML) with JavaScript and jQuery—a combination that makes it easy to work with dynamic data and reduces the number of requests to the server.
 
 ![Live-Search-Application-using-JavaScript-jQuery-and-Ajax](Live-search.jpg)
+Take a look at the finished project [here](dileepkumar9030.github.io/Live-Search-Application-using-JavaScript-jQuery-and-Ajax/)
 
 ## Description
 
