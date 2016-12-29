@@ -6,7 +6,7 @@ The ability to read data and communicate information asynchronously is fundament
 
 ![Live-Search-Application-using-JavaScript-jQuery-and-Ajax](Live-search.jpg)
 
-Take a look at the finished project [here](dileepkumar9030.github.io/Live-Search-Application-using-JavaScript-jQuery-and-Ajax/)
+Take a look at the finished project [here](https://dileepkumar9030.github.io/Live-Search-Application-using-JavaScript-jQuery-and-Ajax/)
 
 ## Description
 
